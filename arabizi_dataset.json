@@ -1,0 +1,2134 @@
+[
+  {
+    "id": "001",
+    "arabic": "شكراً",
+    "romanized": [
+      "shukran",
+      "shokran"
+    ],
+    "arabizi": [
+      "shukran",
+      "shokran"
+    ],
+    "english": [
+      "thank you"
+    ],
+    "category": "everyday",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "002",
+    "arabic": "مرحبا",
+    "romanized": [
+      "marhaba",
+      "mar7aba"
+    ],
+    "arabizi": [
+      "marhaba",
+      "mar7aba"
+    ],
+    "english": [
+      "hello",
+      "welcome"
+    ],
+    "category": "greetings",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "003",
+    "arabic": "السلام",
+    "romanized": [
+      "salam",
+      "salaam"
+    ],
+    "arabizi": [
+      "salam",
+      "salaam"
+    ],
+    "english": [
+      "peace"
+    ],
+    "category": "greetings",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "004",
+    "arabic": "السلام عليكم",
+    "romanized": [
+      "assalamu alaikum",
+      "as-salamu alaykum"
+    ],
+    "arabizi": [
+      "assalamu 3alaykum",
+      "salam 3alaykum"
+    ],
+    "english": [
+      "peace be upon you"
+    ],
+    "category": "greetings",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "005",
+    "arabic": "وعليكم السلام",
+    "romanized": [
+      "wa alaikum assalam"
+    ],
+    "arabizi": [
+      "wa 3alaykum assalam"
+    ],
+    "english": [
+      "and peace be upon you"
+    ],
+    "category": "greetings",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "006",
+    "arabic": "صباح الخير",
+    "romanized": [
+      "sabah alkhair",
+      "sabah el kheir"
+    ],
+    "arabizi": [
+      "saba7 el5eir"
+    ],
+    "english": [
+      "good morning"
+    ],
+    "category": "greetings",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "007",
+    "arabic": "مساء الخير",
+    "romanized": [
+      "masa alkhair",
+      "masa el kheir"
+    ],
+    "arabizi": [
+      "masa2 el5eir"
+    ],
+    "english": [
+      "good evening"
+    ],
+    "category": "greetings",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "008",
+    "arabic": "أهلاً",
+    "romanized": [
+      "ahlan"
+    ],
+    "arabizi": [
+      "ahlan"
+    ],
+    "english": [
+      "welcome",
+      "hello"
+    ],
+    "category": "greetings",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "009",
+    "arabic": "مع السلامة",
+    "romanized": [
+      "ma3a salama",
+      "maa salama"
+    ],
+    "arabizi": [
+      "ma3a salama"
+    ],
+    "english": [
+      "goodbye"
+    ],
+    "category": "greetings",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "010",
+    "arabic": "نعم",
+    "romanized": [
+      "na3am",
+      "naam"
+    ],
+    "arabizi": [
+      "na3am"
+    ],
+    "english": [
+      "yes"
+    ],
+    "category": "everyday",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "011",
+    "arabic": "لا",
+    "romanized": [
+      "la",
+      "laa"
+    ],
+    "arabizi": [
+      "la"
+    ],
+    "english": [
+      "no"
+    ],
+    "category": "everyday",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "012",
+    "arabic": "من فضلك",
+    "romanized": [
+      "min fadlak",
+      "min fadlik"
+    ],
+    "arabizi": [
+      "min faDlak"
+    ],
+    "english": [
+      "please"
+    ],
+    "category": "everyday",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "013",
+    "arabic": "عفواً",
+    "romanized": [
+      "afwan",
+      "3afwan"
+    ],
+    "arabizi": [
+      "3afwan"
+    ],
+    "english": [
+      "you're welcome",
+      "excuse me"
+    ],
+    "category": "everyday",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "014",
+    "arabic": "آسف",
+    "romanized": [
+      "asif",
+      "aasif"
+    ],
+    "arabizi": [
+      "2asef"
+    ],
+    "english": [
+      "sorry"
+    ],
+    "category": "everyday",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "015",
+    "arabic": "كيف حالك",
+    "romanized": [
+      "kayfa haluk",
+      "keef halak"
+    ],
+    "arabizi": [
+      "keef 7alak"
+    ],
+    "english": [
+      "how are you"
+    ],
+    "category": "questions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "016",
+    "arabic": "ما اسمك",
+    "romanized": [
+      "ma ismuk",
+      "shu ismak"
+    ],
+    "arabizi": [
+      "ma esmak",
+      "shu ismak"
+    ],
+    "english": [
+      "what is your name"
+    ],
+    "category": "questions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "017",
+    "arabic": "أين",
+    "romanized": [
+      "ayna",
+      "ain"
+    ],
+    "arabizi": [
+      "wain"
+    ],
+    "english": [
+      "where"
+    ],
+    "category": "questions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "018",
+    "arabic": "متى",
+    "romanized": [
+      "mata"
+    ],
+    "arabizi": [
+      "mata"
+    ],
+    "english": [
+      "when"
+    ],
+    "category": "questions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "019",
+    "arabic": "لماذا",
+    "romanized": [
+      "limadha",
+      "leish"
+    ],
+    "arabizi": [
+      "leish"
+    ],
+    "english": [
+      "why"
+    ],
+    "category": "questions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "020",
+    "arabic": "ماذا",
+    "romanized": [
+      "madha",
+      "shoo"
+    ],
+    "arabizi": [
+      "shoo"
+    ],
+    "english": [
+      "what"
+    ],
+    "category": "questions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "021",
+    "arabic": "أنا",
+    "romanized": [
+      "ana"
+    ],
+    "arabizi": [
+      "ana"
+    ],
+    "english": [
+      "I"
+    ],
+    "category": "pronouns",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "022",
+    "arabic": "أنت",
+    "romanized": [
+      "anta",
+      "inti"
+    ],
+    "arabizi": [
+      "enta",
+      "enti"
+    ],
+    "english": [
+      "you"
+    ],
+    "category": "pronouns",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "023",
+    "arabic": "هو",
+    "romanized": [
+      "huwa",
+      "howa"
+    ],
+    "arabizi": [
+      "howa"
+    ],
+    "english": [
+      "he"
+    ],
+    "category": "pronouns",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "024",
+    "arabic": "هي",
+    "romanized": [
+      "hiya"
+    ],
+    "arabizi": [
+      "hiya"
+    ],
+    "english": [
+      "she"
+    ],
+    "category": "pronouns",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "025",
+    "arabic": "نحن",
+    "romanized": [
+      "nahnu"
+    ],
+    "arabizi": [
+      "ne7na"
+    ],
+    "english": [
+      "we"
+    ],
+    "category": "pronouns",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "026",
+    "arabic": "أب",
+    "romanized": [
+      "ab"
+    ],
+    "arabizi": [
+      "ab"
+    ],
+    "english": [
+      "father"
+    ],
+    "category": "family",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "027",
+    "arabic": "أم",
+    "romanized": [
+      "umm",
+      "um"
+    ],
+    "arabizi": [
+      "omm"
+    ],
+    "english": [
+      "mother"
+    ],
+    "category": "family",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "028",
+    "arabic": "أخ",
+    "romanized": [
+      "akh"
+    ],
+    "arabizi": [
+      "5"
+    ],
+    "english": [
+      "brother"
+    ],
+    "category": "family",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "029",
+    "arabic": "أخت",
+    "romanized": [
+      "ukht"
+    ],
+    "arabizi": [
+      "o5t"
+    ],
+    "english": [
+      "sister"
+    ],
+    "category": "family",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "030",
+    "arabic": "أختي",
+    "romanized": [
+      "ukhti"
+    ],
+    "arabizi": [
+      "o5ti"
+    ],
+    "english": [
+      "my sister"
+    ],
+    "category": "family",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "031",
+    "arabic": "أبي",
+    "romanized": [
+      "abi"
+    ],
+    "arabizi": [
+      "abi"
+    ],
+    "english": [
+      "my father"
+    ],
+    "category": "family",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "032",
+    "arabic": "أمي",
+    "romanized": [
+      "ummi"
+    ],
+    "arabizi": [
+      "ommi"
+    ],
+    "english": [
+      "my mother"
+    ],
+    "category": "family",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "033",
+    "arabic": "عائلة",
+    "romanized": [
+      "aila",
+      "aa'ila"
+    ],
+    "arabizi": [
+      "3a2ila"
+    ],
+    "english": [
+      "family"
+    ],
+    "category": "family",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "034",
+    "arabic": "حبيبي",
+    "romanized": [
+      "habibi",
+      "habeebi"
+    ],
+    "arabizi": [
+      "7abibi",
+      "7abeebi"
+    ],
+    "english": [
+      "my beloved",
+      "my dear"
+    ],
+    "category": "relationships",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "035",
+    "arabic": "حبيبتي",
+    "romanized": [
+      "habibti"
+    ],
+    "arabizi": [
+      "7abibti"
+    ],
+    "english": [
+      "my beloved (feminine)"
+    ],
+    "category": "relationships",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "036",
+    "arabic": "حب",
+    "romanized": [
+      "hubb",
+      "hob"
+    ],
+    "arabizi": [
+      "7ob"
+    ],
+    "english": [
+      "love"
+    ],
+    "category": "relationships",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "037",
+    "arabic": "صديق",
+    "romanized": [
+      "sadiq"
+    ],
+    "arabizi": [
+      "Sadee2"
+    ],
+    "english": [
+      "friend"
+    ],
+    "category": "relationships",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "038",
+    "arabic": "صديقة",
+    "romanized": [
+      "sadiqa"
+    ],
+    "arabizi": [
+      "Sadee2a"
+    ],
+    "english": [
+      "female friend"
+    ],
+    "category": "relationships",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "039",
+    "arabic": "قلب",
+    "romanized": [
+      "qalb"
+    ],
+    "arabizi": [
+      "2alb",
+      "alb"
+    ],
+    "english": [
+      "heart"
+    ],
+    "category": "body",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": true,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "040",
+    "arabic": "رأس",
+    "romanized": [
+      "ras"
+    ],
+    "arabizi": [
+      "ras"
+    ],
+    "english": [
+      "head"
+    ],
+    "category": "body",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "041",
+    "arabic": "عين",
+    "romanized": [
+      "ayn"
+    ],
+    "arabizi": [
+      "3ain"
+    ],
+    "english": [
+      "eye"
+    ],
+    "category": "body",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "042",
+    "arabic": "يد",
+    "romanized": [
+      "yad"
+    ],
+    "arabizi": [
+      "yed"
+    ],
+    "english": [
+      "hand"
+    ],
+    "category": "body",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "043",
+    "arabic": "ماء",
+    "romanized": [
+      "maa",
+      "ma"
+    ],
+    "arabizi": [
+      "may"
+    ],
+    "english": [
+      "water"
+    ],
+    "category": "food",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "044",
+    "arabic": "خبز",
+    "romanized": [
+      "khubz"
+    ],
+    "arabizi": [
+      "5obz"
+    ],
+    "english": [
+      "bread"
+    ],
+    "category": "food",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "045",
+    "arabic": "طعام",
+    "romanized": [
+      "taam"
+    ],
+    "arabizi": [
+      "Ta3am"
+    ],
+    "english": [
+      "food"
+    ],
+    "category": "food",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "046",
+    "arabic": "قهوة",
+    "romanized": [
+      "qahwa",
+      "ahwa"
+    ],
+    "arabizi": [
+      "2ahwa"
+    ],
+    "english": [
+      "coffee"
+    ],
+    "category": "food",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "047",
+    "arabic": "شاي",
+    "romanized": [
+      "shay"
+    ],
+    "arabizi": [
+      "shay"
+    ],
+    "english": [
+      "tea"
+    ],
+    "category": "food",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "048",
+    "arabic": "حليب",
+    "romanized": [
+      "halib"
+    ],
+    "arabizi": [
+      "7aleeb"
+    ],
+    "english": [
+      "milk"
+    ],
+    "category": "food",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "049",
+    "arabic": "سكر",
+    "romanized": [
+      "sukkar"
+    ],
+    "arabizi": [
+      "sokkar"
+    ],
+    "english": [
+      "sugar"
+    ],
+    "category": "food",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "050",
+    "arabic": "ملح",
+    "romanized": [
+      "milh"
+    ],
+    "arabizi": [
+      "mel7"
+    ],
+    "english": [
+      "salt"
+    ],
+    "category": "food",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "051",
+    "arabic": "تفاح",
+    "romanized": [
+      "tuffah"
+    ],
+    "arabizi": [
+      "toffa7"
+    ],
+    "english": [
+      "apple"
+    ],
+    "category": "food",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "052",
+    "arabic": "بيت",
+    "romanized": [
+      "bayt",
+      "beit"
+    ],
+    "arabizi": [
+      "beit"
+    ],
+    "english": [
+      "house"
+    ],
+    "category": "places",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "053",
+    "arabic": "مدرسة",
+    "romanized": [
+      "madrasa"
+    ],
+    "arabizi": [
+      "madrasa"
+    ],
+    "english": [
+      "school"
+    ],
+    "category": "education",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "054",
+    "arabic": "جامعة",
+    "romanized": [
+      "jami3a"
+    ],
+    "arabizi": [
+      "game3a"
+    ],
+    "english": [
+      "university"
+    ],
+    "category": "education",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "055",
+    "arabic": "كتاب",
+    "romanized": [
+      "kitab"
+    ],
+    "arabizi": [
+      "ketab"
+    ],
+    "english": [
+      "book"
+    ],
+    "category": "education",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "056",
+    "arabic": "قلم",
+    "romanized": [
+      "qalam"
+    ],
+    "arabizi": [
+      "2alam"
+    ],
+    "english": [
+      "pen"
+    ],
+    "category": "education",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "057",
+    "arabic": "طالب",
+    "romanized": [
+      "talib"
+    ],
+    "arabizi": [
+      "Taleb"
+    ],
+    "english": [
+      "student"
+    ],
+    "category": "education",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "058",
+    "arabic": "معلم",
+    "romanized": [
+      "muallim"
+    ],
+    "arabizi": [
+      "mo3allem"
+    ],
+    "english": [
+      "teacher"
+    ],
+    "category": "education",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "059",
+    "arabic": "لغة",
+    "romanized": [
+      "lugha"
+    ],
+    "arabizi": [
+      "lo8a"
+    ],
+    "english": [
+      "language"
+    ],
+    "category": "education",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "060",
+    "arabic": "عربي",
+    "romanized": [
+      "arabi"
+    ],
+    "arabizi": [
+      "3arabi"
+    ],
+    "english": [
+      "Arabic"
+    ],
+    "category": "education",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "061",
+    "arabic": "إنجليزي",
+    "romanized": [
+      "inglizi"
+    ],
+    "arabizi": [
+      "engleezi"
+    ],
+    "english": [
+      "English"
+    ],
+    "category": "education",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "062",
+    "arabic": "درس",
+    "romanized": [
+      "dars"
+    ],
+    "arabizi": [
+      "dars"
+    ],
+    "english": [
+      "lesson"
+    ],
+    "category": "education",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "063",
+    "arabic": "قرأ",
+    "romanized": [
+      "qara"
+    ],
+    "arabizi": [
+      "2ara"
+    ],
+    "english": [
+      "read"
+    ],
+    "category": "verbs",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "064",
+    "arabic": "كتب",
+    "romanized": [
+      "kataba",
+      "katab"
+    ],
+    "arabizi": [
+      "katab"
+    ],
+    "english": [
+      "wrote"
+    ],
+    "category": "verbs",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "065",
+    "arabic": "ذهب",
+    "romanized": [
+      "dhahaba",
+      "zahab"
+    ],
+    "arabizi": [
+      "ra7"
+    ],
+    "english": [
+      "went"
+    ],
+    "category": "verbs",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "066",
+    "arabic": "جاء",
+    "romanized": [
+      "jaa"
+    ],
+    "arabizi": [
+      "ga2"
+    ],
+    "english": [
+      "came"
+    ],
+    "category": "verbs",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "067",
+    "arabic": "أكل",
+    "romanized": [
+      "akala"
+    ],
+    "arabizi": [
+      "akal"
+    ],
+    "english": [
+      "ate"
+    ],
+    "category": "verbs",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "068",
+    "arabic": "شرب",
+    "romanized": [
+      "shariba"
+    ],
+    "arabizi": [
+      "shereb"
+    ],
+    "english": [
+      "drank"
+    ],
+    "category": "verbs",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "069",
+    "arabic": "نام",
+    "romanized": [
+      "naam"
+    ],
+    "arabizi": [
+      "nam"
+    ],
+    "english": [
+      "slept"
+    ],
+    "category": "verbs",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "070",
+    "arabic": "عمل",
+    "romanized": [
+      "amil",
+      "amal"
+    ],
+    "arabizi": [
+      "3emel"
+    ],
+    "english": [
+      "work",
+      "did"
+    ],
+    "category": "verbs",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": true,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "071",
+    "arabic": "قال",
+    "romanized": [
+      "qal",
+      "qaal"
+    ],
+    "arabizi": [
+      "2al"
+    ],
+    "english": [
+      "said"
+    ],
+    "category": "verbs",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "072",
+    "arabic": "عرف",
+    "romanized": [
+      "arafa"
+    ],
+    "arabizi": [
+      "3eref"
+    ],
+    "english": [
+      "knew"
+    ],
+    "category": "verbs",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "073",
+    "arabic": "جميل",
+    "romanized": [
+      "jamil",
+      "gameel"
+    ],
+    "arabizi": [
+      "gameel"
+    ],
+    "english": [
+      "beautiful"
+    ],
+    "category": "descriptions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "074",
+    "arabic": "كبير",
+    "romanized": [
+      "kabir",
+      "kbeer"
+    ],
+    "arabizi": [
+      "kbeer"
+    ],
+    "english": [
+      "big"
+    ],
+    "category": "descriptions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "075",
+    "arabic": "صغير",
+    "romanized": [
+      "saghir",
+      "soghayar"
+    ],
+    "arabizi": [
+      "se8ayyar"
+    ],
+    "english": [
+      "small"
+    ],
+    "category": "descriptions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "076",
+    "arabic": "جديد",
+    "romanized": [
+      "jadid",
+      "gedid"
+    ],
+    "arabizi": [
+      "gedeed"
+    ],
+    "english": [
+      "new"
+    ],
+    "category": "descriptions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "077",
+    "arabic": "قديم",
+    "romanized": [
+      "qadim"
+    ],
+    "arabizi": [
+      "2adeem"
+    ],
+    "english": [
+      "old"
+    ],
+    "category": "descriptions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "078",
+    "arabic": "سعيد",
+    "romanized": [
+      "saeed"
+    ],
+    "arabizi": [
+      "sa3eed"
+    ],
+    "english": [
+      "happy"
+    ],
+    "category": "emotions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "079",
+    "arabic": "حزين",
+    "romanized": [
+      "hazin"
+    ],
+    "arabizi": [
+      "7زين"
+    ],
+    "english": [
+      "sad"
+    ],
+    "category": "emotions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "080",
+    "arabic": "خائف",
+    "romanized": [
+      "khaif"
+    ],
+    "arabizi": [
+      "5ayef"
+    ],
+    "english": [
+      "afraid"
+    ],
+    "category": "emotions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "081",
+    "arabic": "غاضب",
+    "romanized": [
+      "ghadib"
+    ],
+    "arabizi": [
+      "8aDib"
+    ],
+    "english": [
+      "angry"
+    ],
+    "category": "emotions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "082",
+    "arabic": "الله",
+    "romanized": [
+      "allah"
+    ],
+    "arabizi": [
+      "allah"
+    ],
+    "english": [
+      "Allah",
+      "God"
+    ],
+    "category": "religion",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "083",
+    "arabic": "قرآن",
+    "romanized": [
+      "quran",
+      "qur'an"
+    ],
+    "arabizi": [
+      "2uran"
+    ],
+    "english": [
+      "Qur'an"
+    ],
+    "category": "religion",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "084",
+    "arabic": "صلاة",
+    "romanized": [
+      "salah",
+      "salat"
+    ],
+    "arabizi": [
+      "salah"
+    ],
+    "english": [
+      "prayer"
+    ],
+    "category": "religion",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "085",
+    "arabic": "مسجد",
+    "romanized": [
+      "masjid"
+    ],
+    "arabizi": [
+      "masged"
+    ],
+    "english": [
+      "mosque"
+    ],
+    "category": "religion",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "086",
+    "arabic": "دعاء",
+    "romanized": [
+      "dua"
+    ],
+    "arabizi": [
+      "do3a"
+    ],
+    "english": [
+      "supplication"
+    ],
+    "category": "religion",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "087",
+    "arabic": "الحمد لله",
+    "romanized": [
+      "alhamdulillah"
+    ],
+    "arabizi": [
+      "el7amdulillah"
+    ],
+    "english": [
+      "praise be to Allah"
+    ],
+    "category": "religion",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "088",
+    "arabic": "إن شاء الله",
+    "romanized": [
+      "in sha allah",
+      "inshallah"
+    ],
+    "arabizi": [
+      "insha2allah"
+    ],
+    "english": [
+      "God willing"
+    ],
+    "category": "religion",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "089",
+    "arabic": "ما شاء الله",
+    "romanized": [
+      "masha allah",
+      "mashallah"
+    ],
+    "arabizi": [
+      "masha2allah"
+    ],
+    "english": [
+      "what Allah has willed"
+    ],
+    "category": "religion",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "090",
+    "arabic": "بسم الله",
+    "romanized": [
+      "bismillah"
+    ],
+    "arabizi": [
+      "bismillah"
+    ],
+    "english": [
+      "in the name of Allah"
+    ],
+    "category": "religion",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "091",
+    "arabic": "واحد",
+    "romanized": [
+      "wahid"
+    ],
+    "arabizi": [
+      "wa7ed"
+    ],
+    "english": [
+      "one"
+    ],
+    "category": "numbers",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "092",
+    "arabic": "اثنان",
+    "romanized": [
+      "ithnan"
+    ],
+    "arabizi": [
+      "etnen"
+    ],
+    "english": [
+      "two"
+    ],
+    "category": "numbers",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "093",
+    "arabic": "ثلاثة",
+    "romanized": [
+      "thalatha"
+    ],
+    "arabizi": [
+      "talata"
+    ],
+    "english": [
+      "three"
+    ],
+    "category": "numbers",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "094",
+    "arabic": "أربعة",
+    "romanized": [
+      "arbaa"
+    ],
+    "arabizi": [
+      "arba3a"
+    ],
+    "english": [
+      "four"
+    ],
+    "category": "numbers",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "095",
+    "arabic": "خمسة",
+    "romanized": [
+      "khamsa"
+    ],
+    "arabizi": [
+      "5amsa"
+    ],
+    "english": [
+      "five"
+    ],
+    "category": "numbers",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "096",
+    "arabic": "ستة",
+    "romanized": [
+      "sitta"
+    ],
+    "arabizi": [
+      "setta"
+    ],
+    "english": [
+      "six"
+    ],
+    "category": "numbers",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "097",
+    "arabic": "سبعة",
+    "romanized": [
+      "sabaa"
+    ],
+    "arabizi": [
+      "sab3a"
+    ],
+    "english": [
+      "seven"
+    ],
+    "category": "numbers",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "098",
+    "arabic": "ثمانية",
+    "romanized": [
+      "thamaniya"
+    ],
+    "arabizi": [
+      "tamanya"
+    ],
+    "english": [
+      "eight"
+    ],
+    "category": "numbers",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "099",
+    "arabic": "تسعة",
+    "romanized": [
+      "tisaa"
+    ],
+    "arabizi": [
+      "tes3a"
+    ],
+    "english": [
+      "nine"
+    ],
+    "category": "numbers",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "100",
+    "arabic": "عشرة",
+    "romanized": [
+      "ashara"
+    ],
+    "arabizi": [
+      "3ashara"
+    ],
+    "english": [
+      "ten"
+    ],
+    "category": "numbers",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "101",
+    "arabic": "اليوم",
+    "romanized": [
+      "alyawm",
+      "el yom"
+    ],
+    "arabizi": [
+      "elyom"
+    ],
+    "english": [
+      "today"
+    ],
+    "category": "time",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "102",
+    "arabic": "غداً",
+    "romanized": [
+      "ghadan",
+      "bukra"
+    ],
+    "arabizi": [
+      "bokra"
+    ],
+    "english": [
+      "tomorrow"
+    ],
+    "category": "time",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "103",
+    "arabic": "أمس",
+    "romanized": [
+      "ams"
+    ],
+    "arabizi": [
+      "embare7"
+    ],
+    "english": [
+      "yesterday"
+    ],
+    "category": "time",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "104",
+    "arabic": "الآن",
+    "romanized": [
+      "al-aan",
+      "alaan"
+    ],
+    "arabizi": [
+      "delwa2ti"
+    ],
+    "english": [
+      "now"
+    ],
+    "category": "time",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "105",
+    "arabic": "وقت",
+    "romanized": [
+      "waqt",
+      "wa2t"
+    ],
+    "arabizi": [
+      "wa2t"
+    ],
+    "english": [
+      "time"
+    ],
+    "category": "time",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": false,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "106",
+    "arabic": "علم",
+    "romanized": [
+      "ilm"
+    ],
+    "arabizi": [
+      "3ilm"
+    ],
+    "english": [
+      "knowledge",
+      "science"
+    ],
+    "category": "education",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": true,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "107",
+    "arabic": "عمل",
+    "romanized": [
+      "amal",
+      "3amal"
+    ],
+    "arabizi": [
+      "3amal"
+    ],
+    "english": [
+      "work"
+    ],
+    "category": "verbs",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": true,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "108",
+    "arabic": "عالم",
+    "romanized": [
+      "alim",
+      "aalim"
+    ],
+    "arabizi": [
+      "3alem"
+    ],
+    "english": [
+      "scholar",
+      "world (context-dependent)"
+    ],
+    "category": "descriptions",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": true,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "109",
+    "arabic": "سلام",
+    "romanized": [
+      "salam"
+    ],
+    "arabizi": [
+      "salam"
+    ],
+    "english": [
+      "peace",
+      "hello"
+    ],
+    "category": "greetings",
+    "dialect": "general / mixed; review where dialect-specific",
+    "ambiguity": true,
+    "notes": "Illustrative entry; spelling variants require native-speaker review.",
+    "source": "Curated starter examples; not an externally validated corpus.",
+    "verification_status": "unverified"
+  }
+]
