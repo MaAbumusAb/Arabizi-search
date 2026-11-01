@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An offline Arabic phonetic and Arabizi search proof of concept.">
+  <title>Arabic Phonetic Search — PoC</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="header">
+      <div class="eyebrow">OFFLINE SEARCH PROTOTYPE</div>
+      <h1>Arabic, the way you type it.</h1>
+      <p class="intro">Search Arabic vocabulary using Roman characters or Arabizi. No internet connection or Arabic keyboard required once the files are available locally.</p>
+    </header>
+
+    <section class="search-panel" aria-label="Dictionary search">
+      <label for="searchInput">Search a word</label>
+      <div class="search-row">
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <input id="searchInput" type="search" placeholder="Try shukran, 7abibi or 3ilm" autocomplete="off">
+        <button id="clearButton" type="button" aria-label="Clear search">Clear</button>
+      </div>
+      <div class="controls">
+        <label class="toggle-label"><input id="phoneticToggle" type="checkbox" checked> <span>Phonetic search enabled</span></label>
+        <span id="status" class="status">Loading local dictionary…</span>
+      </div>
+    </section>
+
+    <section class="results-section">
+      <div class="section-heading"><h2>Search results</h2><span class="hint">Arabic · Romanized · Meaning</span></div>
+      <div id="results"><div class="empty">Loading dictionary…</div></div>
+    </section>
+
+    <footer>
+      <p>Research prototype only. Transliteration is approximate and varies across Arabic-speaking communities. Suggestions should be reviewed by fluent speakers.</p>
+    </footer>
+  </main>
+  <script src="./engine/transliteration.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
